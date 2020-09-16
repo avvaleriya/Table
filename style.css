@@ -1,0 +1,54 @@
+.wrapper {
+  width: 80%;
+  margin: 0px auto;
+}
+
+#name {
+  border: 2px solid red;
+}
+
+#year {
+  border: 2px solid red;
+}
+
+#name {
+  border: 2px solid red;
+}
+
+#date {
+  border: 2px solid red;
+}
+
+#wage {
+  border: 2px solid red;
+}
+
+#btnAdd {
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: red;
+  background-color: transparent;
+  font-size: medium;
+}
+
+#btnDelete {
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: red;
+  background-color: transparent;
+  font-size: medium;
+}
+
+#btnSumm {
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: red;
+  background-color: transparent;
+  font-size: medium;
+}
